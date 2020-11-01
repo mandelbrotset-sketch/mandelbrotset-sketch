@@ -1,0 +1,61 @@
+body
+{
+    color: darkslategrey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 3px solid #DDD;
+    margin: 0 auto;
+    background: whitesmoke;
+}
+
+#container h1
+{
+    padding: 0.5em;
+}
+
+#header #logo
+{
+    width: 30px;
+    vertical-align: middle;
+}
+
+#header
+{
+    background-color: cornflowerblue;
+    color: white;
+    text-align: left;
+    font-size: 24px;
+    padding: 1em;
+    font-weight: bold;
+    box-shadow: 0px 10px 10px 0px black;
+}
+
+#footer
+{
+    background: cornflowerblue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+#horses 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 2em;
+    text-align: center;
+}
